@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mazzen22
-- 👀 I’m interested in programming especially python; oftware engineering and Robotics
+- 👀 I’m interested in programming especially python,c++,software engineering and Robotics
 - 🌱 I’m currently learning a course from Harvard universty (CS50)...
  
 
