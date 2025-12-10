@@ -1,9 +1,9 @@
 # Hi there! I'm Mazen 👋
 
-## 👨‍💻 About Me
+##  About Me
 An Artificial Intelligence student at Menoufia Universty with strong foundations in machine learning and deep learning. Skilled in designing AI models using Python (TensorFlow, PyTorch). Have good problem-solving skills and experience in team-based project development. Looking forward to building applications using my AI and software development skills.
 
-## 🧠 Skills
+##  Skills
 **Programming**
 > Python | C++ | Java | MATLAB
 
