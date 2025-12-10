@@ -1,6 +1,20 @@
-- 👋 Hi, I’m @Mazzen22
-- 👀 I’m interested in programming especially python,c++,software engineering and Robotics
-- 🌱 I’m currently learning a course from Harvard universty (CS50)...
+# Hi there! I'm Mazen 👋
+
+## 👨‍💻 About Me
+An Artificial Intelligence student at Menoufia Universty with strong foundations in machine learning and deep learning. Skilled in designing AI models using Python (TensorFlow, PyTorch). Have good problem-solving skills and experience in team-based project development. Looking forward to building applications using my AI and software development skills.
+
+## 🧠 Skills
+**Programming**
+> Python | C++ | Java | MATLAB
+
+**AI & ML Tools**
+> TensorFlow | Pytorch | Scikit-learn | LangChain
+
+**Software & Tools**
+> Git | Linux | Streamlit | React (Basics)
+
+**Interests**
+> Research | Robotics | Competitive Programming
  
 
 
