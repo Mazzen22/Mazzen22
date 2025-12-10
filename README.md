@@ -8,7 +8,7 @@ An Artificial Intelligence student at Menoufia Universty with strong foundations
 > Python | C++ | Java | MATLAB
 
 **AI & ML Tools**
-> TensorFlow | Pytorch | Scikit-learn | LangChain
+> TensorFlow | Pytorch
 
 **Software & Tools**
 > Git | Linux | Streamlit | React (Basics)
